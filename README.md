@@ -10,6 +10,7 @@ Tech-Stack Used:
 It was created using the MERN stack, and deployed using vercel,
 
 Repository Link: https://github.com/Prabhat-gaurav/wolkus-assign
+Link to the repository: https://wolkus-assign.vercel.app/
 
 ## Important
 
